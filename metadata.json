@@ -1,0 +1,6 @@
+{
+  "name": "Bharat-Rx",
+  "description": "A minimalist, pure-black view featuring a beautifully styled looping red heart that beats with a physiological double-pulse rhythm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
